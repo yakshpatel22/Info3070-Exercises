@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lab7a.html" />
+    <None Include="wwwroot\menuexample.html" />
+    <None Include="wwwroot\modalexample.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExercisesViewModels\ExercisesViewModels.csproj" />
+  </ItemGroup>
+
+
+</Project>

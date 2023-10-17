@@ -1,0 +1,24 @@
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.AssemblyInfo.cs
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesViewModels.deps.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesViewModels.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesViewModels.pdb
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.csprojAssemblyReference.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.csproj.CopyComplete
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesViewModels.deps.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesViewModels.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesViewModels.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.AssemblyInfo.cs
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\netcoreapp3.1\ExercisesViewModels.pdb

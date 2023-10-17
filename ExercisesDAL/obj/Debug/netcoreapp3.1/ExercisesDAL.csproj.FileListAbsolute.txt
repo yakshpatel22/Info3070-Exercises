@@ -1,0 +1,25 @@
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.AssemblyInfoInputs.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.AssemblyInfo.cs
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.csproj.CoreCompileInputs.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.deps.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.runtimeconfig.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.runtimeconfig.dev.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.csprojAssemblyReference.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.genruntimeconfig.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.deps.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.runtimeconfig.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.runtimeconfig.dev.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.csproj.AssemblyReference.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.AssemblyInfoInputs.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.AssemblyInfo.cs
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.csproj.CoreCompileInputs.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.genruntimeconfig.cache

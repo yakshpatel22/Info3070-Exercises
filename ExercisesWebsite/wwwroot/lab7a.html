@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 7a</title>
+    <meta charset="utf-8" />
+    <link href="lib/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="#">Info3070Exercises</a>
+        <button class="navbar-toggler" type="button" data-toggle"collapse"data-target="#navbarContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/studentlookup.html">Lookup<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/modalexample.html">Modal</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/studentlookup.html#theModal" data-toggle="modal" data-target="#theModal">Lab 7a</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="modal fade text-center" data-backdrop="static" id="theModal">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header d-block">
+                    <button type="button" class="close float-rigt" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h1 class="modal-title text-center" id="sampleModalLabel">Lab 7a</h1>
+                </div>
+                <div class="modal-body">
+                    <div class="card-body p-0 ml-1">
+                        <div class="row">
+                            <div class="col-3" style="font-weight:bold;">Title:</div>
+                            <div class="col-2 text-left" id="title"></div>
+                            <div class="col-3 text-right" style="font-weight:bold;">First:</div>
+                            <div class="col-4 text-left" id="firstname"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-3" style="font-weight:bold;">Phone:</div>
+                            <div class="col-8 text-left" id="phone"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-3" style="font-weight:bold;">Email:</div>
+                            <div class="col-8 text-left" id="email"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-3" style="font-weight:bold;">Last:</div>
+                            <div class="col-8">
+                                <input type="text" placeholder="enter last name" id="TextBoxLastName" class="form-control my-2" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                        <input type="button" value="Find Student" id="getbutton" />
+                        <div id="status" class="text-left mt-3 mb-2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="lib/js/jquery.min.js"></script>
+    <script src="js/studentlookup.js"></script>
+    <script src="lib/js/bootstrap.min.js"></script>
+</body>
+</html>

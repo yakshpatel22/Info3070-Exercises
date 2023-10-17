@@ -1,0 +1,132 @@
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.csprojAssemblyReference.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.AssemblyInfoInputs.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.AssemblyInfo.cs
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.csproj.CoreCompileInputs.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.exe
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.deps.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.runtimeconfig.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.runtimeconfig.dev.json
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.pdb
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesViewModels.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesViewModels.pdb
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.csproj.CopyComplete
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\ExercisesWebsite.StaticWebAssets.Manifest.cache
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\ExercisesWebsite.StaticWebAssets.xml
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.dll
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.pdb
+C:\Users\prisc\Documents\INFO 3070\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.genruntimeconfig.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.exe
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.deps.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.runtimeconfig.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.runtimeconfig.dev.json
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesWebsite.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesViewModels.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesViewModels.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.csproj.AssemblyReference.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.AssemblyInfoInputs.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.AssemblyInfo.cs
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.csproj.CoreCompileInputs.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\ExercisesWebsite.StaticWebAssets.Manifest.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\ExercisesWebsite.StaticWebAssets.xml
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExercisesWebsite.styles.css
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.dll
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.pdb
+C:\Users\YakshPatel\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\netcoreapp3.1\ExercisesWebsite.genruntimeconfig.cache

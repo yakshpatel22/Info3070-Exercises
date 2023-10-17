@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Modal Example</title>
+    <meta charset="utf-8" />
+    <link href="lib/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div class="mx-4 my-4">
+        <div class="card">
+            <div class="card-header text-center">
+                Main Content Panel
+            </div>
+            <div class="card-body">
+                <div class="text-left col-xs-6" id="title">Some interesting main content goes here</div>
+                <a href="/modalexample.html#theModal" data-toggle="modal" data-target="#theModal">Create Modal</a>
+            </div>
+            <div class="card-footer"></div>
+        </div>
+    </div>
+    <div class="modal fade text-center" data-backdrop="static" id="theModal">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header d-block">
+                    <button type="button" class="close float-rigt" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h1 class="modal-title text-center" id="sampleModalLabel">Sample Modal</h1>
+                </div>
+                <div class="modal-body">Normally we'd have some useful content that goes here</div>
+                <div class="modal-footer">
+                    <input type="button" value="Do something" id="doButton" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="lib/js/jquery.min.js"></script>
+    <script src="lib/js/bootstrap.min.js"></script>
+</body>
+</html>
